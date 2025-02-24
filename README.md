@@ -54,7 +54,7 @@ The SARSA-based policy improved gradually over multiple iterations. Key observat
   ![sarsa learnng progress](https://github.com/user-attachments/assets/cb6e1c51-cfc5-499a-b440-c314ee12bccf)
 
 - **Plot 2:** Displays the learned policy as directional arrows for each state.
-  ![learned polcy](https://github.com/user-attachments/assets/8a455220-f224-47e3-8a09-f8924e43cc4a)
+   ![learned polcy](https://github.com/user-attachments/assets/8a455220-f224-47e3-8a09-f8924e43cc4a)
 
 ## Key Learning Points of these Implementations
 
