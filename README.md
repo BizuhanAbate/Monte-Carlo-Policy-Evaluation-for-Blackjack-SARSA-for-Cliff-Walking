@@ -1,7 +1,6 @@
 # Monte Carlo Policy Evaluation & SARSA for Cliff Walking
 
 ## Introduction
-Blackjack serves as an excellent testbed for reinforcement learning due to its stochastic nature and well-defined rules. 
 This project explores two key Reinforcement Learning (RL) techniques: **Monte Carlo (MC) Policy Evaluation for Blackjack** and **SARSA (State-Action-Reward-State-Action) for Cliff Walking** 
 to understand how agents can learn optimal strategies through experience. 
 The primary objective is to analyze how these methods approximate the value function and improve decision-making in the game. 
